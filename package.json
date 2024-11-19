@@ -1,0 +1,19 @@
+{
+  "name": "meinprojekt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@novastar/native": "^2.1.0",
+    "@novastar/net": "^2.1.0",
+    "@nx-dotnet/core": "^2.4.5",
+    "authorize-dot-net-sdk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
